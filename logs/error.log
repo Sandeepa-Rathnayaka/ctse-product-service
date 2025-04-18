@@ -1,0 +1,28 @@
+2025-04-16T15:12:39.040Z :- ERROR  : MongoDB connection error 😢: connect ECONNREFUSED ::1:27017
+2025-04-16T15:13:36.376Z :- ERROR  : MongoDB connection error 😢: connect ECONNREFUSED ::1:27017
+2025-04-16T15:16:38.897Z :- ERROR  : Error: You are not authorized to access this resource
+2025-04-16T15:16:58.890Z :- ERROR  : Error: You are not authorized to access this resource
+2025-04-16T15:17:21.582Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:22:51.950Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:23:24.384Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:35:30.091Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:38:25.501Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:43:25.077Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:56:13.196Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T16:18:13.868Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:25:00.973Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:28:12.631Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:30:34.520Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:40:36.911Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:10:40.875Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:18:39.980Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:31:31.386Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:31:55.249Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:35:34.772Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:36:36.703Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:38:45.294Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:54:35.104Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:57:39.135Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:59:17.818Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T16:15:46.295Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T16:16:44.310Z :- ERROR  : Error: The specified bucket does not exist

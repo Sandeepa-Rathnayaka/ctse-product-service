@@ -1,0 +1,49 @@
+2025-04-16T15:12:39.013Z :- INFO   : MongoDB disconnected 😢
+2025-04-16T15:13:36.349Z :- INFO   : MongoDB disconnected 😢
+2025-04-16T15:15:02.226Z :- INFO   : MongoDB connected successfully 😍
+2025-04-16T15:15:02.257Z :- INFO   : Product Service is running on port 8003🚀
+2025-04-16T15:16:38.897Z :- ERROR  : Error: You are not authorized to access this resource
+2025-04-16T15:16:58.890Z :- ERROR  : Error: You are not authorized to access this resource
+2025-04-16T15:17:21.582Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:22:51.950Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:23:24.384Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:35:30.091Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:38:25.501Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:43:25.077Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T15:52:57.443Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-16T15:53:22.474Z :- INFO   : MongoDB connected successfully 😍
+2025-04-16T15:53:22.490Z :- INFO   : Product Service is running on port 8003🚀
+2025-04-16T15:56:13.196Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T16:18:13.868Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-16T20:28:23.464Z :- INFO   : MongoDB disconnected 😢
+2025-04-17T05:25:00.973Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:28:12.631Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:30:34.520Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T05:40:36.911Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T09:57:38.745Z :- INFO   : MongoDB disconnected 😢
+2025-04-17T13:55:44.782Z :- INFO   : MongoDB disconnected 😢
+2025-04-17T15:03:37.997Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-17T15:04:15.826Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:04:15.842Z :- INFO   : Product Service is running on port 8003🚀
+2025-04-17T15:10:40.875Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:18:39.980Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:31:31.386Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:31:55.249Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:35:02.724Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:35:02.737Z :- INFO   : Product Service is running on port 8003🚀
+2025-04-17T15:35:34.772Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:36:36.703Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:38:45.294Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:54:35.104Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:57:39.135Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T15:58:33.569Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-17T15:59:02.136Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:59:02.147Z :- INFO   : Product Service is running on port 8003🚀
+2025-04-17T15:59:17.818Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T16:15:46.295Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T16:16:44.310Z :- ERROR  : Error: The specified bucket does not exist
+2025-04-17T21:24:45.571Z :- INFO   : MongoDB disconnected 😢
+2025-04-18T04:01:54.689Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-18T04:03:13.327Z :- INFO   : MongoDB connected successfully 😍
+2025-04-18T04:03:13.339Z :- INFO   : Product Service is running on port 8003🚀
+2025-04-18T10:43:31.314Z :- INFO   : MongoDB disconnected 😢
